@@ -1,1 +1,189 @@
-2026-07-16 13:47:50,293 INFO Watching for file changes with StatReloader 681 
+2026-07-23 14:22:37,894 WARNING Forbidden: /register/staff/ 249 
+2026-07-23 14:22:37,894 WARNING "POST /register/staff/ HTTP/1.1" 403 82 249 
+2026-07-23 14:22:47,515 WARNING Not Found: / 249 
+2026-07-23 14:22:47,515 WARNING "GET / HTTP/1.1" 404 6234 249 
+2026-07-23 14:22:47,601 WARNING Not Found: /favicon.ico 249 
+2026-07-23 14:22:47,604 WARNING "GET /favicon.ico HTTP/1.1" 404 6285 249 
+2026-07-23 14:22:50,723 INFO "GET /swagger/ HTTP/1.1" 200 2161 249 
+2026-07-23 14:22:50,732 INFO "GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 304 0 249 
+2026-07-23 14:22:50,733 INFO "GET /static/drf-yasg/style.css HTTP/1.1" 304 0 249 
+2026-07-23 14:22:50,737 INFO "GET /static/drf-yasg/insQ.min.js HTTP/1.1" 304 0 249 
+2026-07-23 14:22:50,738 INFO "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 304 0 249 
+2026-07-23 14:22:50,741 INFO "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 200 1510271 249 
+2026-07-23 14:22:50,742 INFO "GET /static/drf-yasg/immutable.min.js HTTP/1.1" 304 0 249 
+2026-07-23 14:22:50,746 INFO "GET /static/drf-yasg/swagger-ui-init.js HTTP/1.1" 304 0 249 
+2026-07-23 14:22:50,830 INFO "GET /swagger/?format=openapi HTTP/1.1" 200 11866 249 
+2026-07-23 14:22:52,289 INFO "GET /admin/ HTTP/1.1" 302 0 249 
+2026-07-23 14:22:52,309 INFO "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4084 249 
+2026-07-23 14:22:52,317 INFO "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0 249 
+2026-07-23 14:22:52,317 INFO "GET /static/admin/js/theme.js HTTP/1.1" 304 0 249 
+2026-07-23 14:22:52,317 INFO "GET /static/admin/css/base.css HTTP/1.1" 304 0 249 
+2026-07-23 14:22:52,319 INFO "GET /static/admin/css/responsive.css HTTP/1.1" 304 0 249 
+2026-07-23 14:22:52,321 INFO "GET /static/admin/css/login.css HTTP/1.1" 304 0 249 
+2026-07-23 14:22:52,321 INFO "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0 249 
+2026-07-23 14:22:52,322 INFO "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0 249 
+2026-07-23 14:24:06,723 WARNING Forbidden: /login/ 249 
+2026-07-23 14:24:06,723 WARNING "POST /login/ HTTP/1.1" 403 45 249 
+2026-07-23 14:24:23,557 WARNING Forbidden: /verify-email/ 249 
+2026-07-23 14:24:23,557 WARNING "POST /verify-email/ HTTP/1.1" 403 45 249 
+2026-07-23 14:24:38,615 WARNING Forbidden: /login/ 249 
+2026-07-23 14:24:38,615 WARNING "POST /login/ HTTP/1.1" 403 45 249 
+2026-07-23 14:25:53,397 INFO /Users/suyogkhadka/banquet/app_accounts/views/user_login.py changed, reloading. 265 
+2026-07-23 14:25:53,670 INFO Watching for file changes with StatReloader 681 
+2026-07-23 14:25:54,789 INFO /Users/suyogkhadka/banquet/app_accounts/views/user_login.py changed, reloading. 265 
+2026-07-23 14:25:54,946 INFO Watching for file changes with StatReloader 681 
+2026-07-23 14:26:07,305 INFO /Users/suyogkhadka/banquet/app_accounts/views/user_login.py changed, reloading. 265 
+2026-07-23 14:26:07,485 INFO Watching for file changes with StatReloader 681 
+2026-07-23 14:26:21,844 INFO /Users/suyogkhadka/banquet/app_accounts/views/user_login.py changed, reloading. 265 
+2026-07-23 14:26:22,016 INFO Watching for file changes with StatReloader 681 
+2026-07-23 14:26:26,162 INFO /Users/suyogkhadka/banquet/app_accounts/views/user_login.py changed, reloading. 265 
+2026-07-23 14:26:26,324 INFO Watching for file changes with StatReloader 681 
+2026-07-23 14:26:28,464 INFO /Users/suyogkhadka/banquet/app_accounts/views/user_login.py changed, reloading. 265 
+2026-07-23 14:26:28,637 INFO Watching for file changes with StatReloader 681 
+2026-07-23 14:26:30,767 INFO /Users/suyogkhadka/banquet/app_accounts/views/user_login.py changed, reloading. 265 
+2026-07-23 14:26:30,951 INFO Watching for file changes with StatReloader 681 
+2026-07-23 14:26:33,073 INFO /Users/suyogkhadka/banquet/app_accounts/views/user_login.py changed, reloading. 265 
+2026-07-23 14:26:33,259 INFO Watching for file changes with StatReloader 681 
+2026-07-23 14:26:40,888 WARNING Forbidden: /login/ 249 
+2026-07-23 14:26:40,889 WARNING "POST /login/ HTTP/1.1" 403 45 249 
+2026-07-23 14:26:42,205 WARNING Forbidden: /login/ 249 
+2026-07-23 14:26:42,206 WARNING "POST /login/ HTTP/1.1" 403 45 249 
+2026-07-23 14:27:00,533 WARNING Forbidden: /login/ 249 
+2026-07-23 14:27:00,533 WARNING "POST /login/ HTTP/1.1" 403 45 249 
+2026-07-23 14:27:01,425 WARNING Forbidden: /login/ 249 
+2026-07-23 14:27:01,425 WARNING "POST /login/ HTTP/1.1" 403 45 249 
+2026-07-23 14:27:02,061 WARNING Forbidden: /login/ 249 
+2026-07-23 14:27:02,061 WARNING "POST /login/ HTTP/1.1" 403 45 249 
+2026-07-23 14:27:14,127 INFO Watching for file changes with StatReloader 681 
+2026-07-23 14:27:21,396 INFO /Users/suyogkhadka/banquet/app_accounts/views/user_login.py changed, reloading. 265 
+2026-07-23 14:27:21,560 INFO Watching for file changes with StatReloader 681 
+2026-07-23 14:27:27,370 WARNING Forbidden: /login/ 249 
+2026-07-23 14:27:27,370 WARNING "POST /login/ HTTP/1.1" 403 45 249 
+2026-07-23 14:27:44,897 WARNING Not Found: /login/vvvvv 249 
+2026-07-23 14:27:44,897 WARNING "POST /login/vvvvv HTTP/1.1" 404 6286 249 
+2026-07-23 14:27:52,063 WARNING Forbidden: /login/ 249 
+2026-07-23 14:27:52,063 WARNING "POST /login/ HTTP/1.1" 403 45 249 
+2026-07-23 14:28:16,014 INFO /Users/suyogkhadka/banquet/app_accounts/views/user_login.py changed, reloading. 265 
+2026-07-23 14:28:16,204 INFO Watching for file changes with StatReloader 681 
+2026-07-23 14:28:17,295 INFO /Users/suyogkhadka/banquet/app_accounts/views/user_login.py changed, reloading. 265 
+2026-07-23 14:28:17,453 INFO Watching for file changes with StatReloader 681 
+2026-07-23 14:28:20,613 INFO /Users/suyogkhadka/banquet/app_accounts/views/user_login.py changed, reloading. 265 
+2026-07-23 14:28:20,807 INFO Watching for file changes with StatReloader 681 
+2026-07-23 14:28:21,920 INFO /Users/suyogkhadka/banquet/app_accounts/views/user_login.py changed, reloading. 265 
+2026-07-23 14:28:22,083 INFO Watching for file changes with StatReloader 681 
+2026-07-23 14:28:29,236 WARNING Forbidden: /login/ 249 
+2026-07-23 14:28:29,237 WARNING "POST /login/ HTTP/1.1" 403 45 249 
+2026-07-23 14:28:39,549 INFO /Users/suyogkhadka/banquet/app_accounts/views/user_login.py changed, reloading. 265 
+2026-07-23 14:28:39,791 INFO Watching for file changes with StatReloader 681 
+2026-07-23 14:28:40,889 INFO /Users/suyogkhadka/banquet/app_accounts/views/user_login.py changed, reloading. 265 
+2026-07-23 14:28:41,049 INFO Watching for file changes with StatReloader 681 
+2026-07-23 14:28:44,158 INFO /Users/suyogkhadka/banquet/app_accounts/views/user_login.py changed, reloading. 265 
+2026-07-23 14:28:44,325 INFO Watching for file changes with StatReloader 681 
+2026-07-23 14:28:49,420 WARNING Forbidden: /login/ 249 
+2026-07-23 14:28:49,421 WARNING "POST /login/ HTTP/1.1" 403 45 249 
+2026-07-23 14:29:10,661 INFO "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0 249 
+2026-07-23 14:29:10,677 INFO "GET /admin/ HTTP/1.1" 200 14584 249 
+2026-07-23 14:29:10,688 INFO "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0 249 
+2026-07-23 14:29:10,692 INFO "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0 249 
+2026-07-23 14:29:10,693 INFO "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0 249 
+2026-07-23 14:29:19,898 INFO "POST /admin/logout/ HTTP/1.1" 200 3479 249 
+2026-07-23 14:29:29,432 INFO "POST /admin/logout/ HTTP/1.1" 302 0 249 
+2026-07-23 14:29:29,436 INFO "GET /admin/ HTTP/1.1" 302 0 249 
+2026-07-23 14:29:29,446 INFO "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4084 249 
+2026-07-23 14:30:19,797 INFO /Users/suyogkhadka/banquet/app_accounts/views/user_login.py changed, reloading. 265 
+2026-07-23 14:30:20,046 INFO Watching for file changes with StatReloader 681 
+2026-07-23 14:30:23,194 INFO /Users/suyogkhadka/banquet/app_accounts/views/user_login.py changed, reloading. 265 
+2026-07-23 14:30:23,406 INFO Watching for file changes with StatReloader 681 
+2026-07-23 14:30:26,536 INFO /Users/suyogkhadka/banquet/app_accounts/views/user_login.py changed, reloading. 265 
+2026-07-23 14:30:26,723 INFO Watching for file changes with StatReloader 681 
+2026-07-23 14:30:28,701 WARNING Forbidden: /login/ 249 
+2026-07-23 14:30:28,702 WARNING "POST /login/ HTTP/1.1" 403 45 249 
+2026-07-23 14:30:28,989 WARNING Forbidden: /login/ 249 
+2026-07-23 14:30:28,990 WARNING "POST /login/ HTTP/1.1" 403 45 249 
+2026-07-23 14:30:55,659 INFO Watching for file changes with StatReloader 681 
+2026-07-23 14:31:28,159 WARNING Forbidden: /login/ 249 
+2026-07-23 14:31:28,160 WARNING "POST /login/ HTTP/1.1" 403 45 249 
+2026-07-23 14:31:46,243 WARNING Forbidden: /register/ 249 
+2026-07-23 14:31:46,244 WARNING "POST /register/ HTTP/1.1" 403 82 249 
+2026-07-23 14:31:47,060 WARNING Forbidden: /register/ 249 
+2026-07-23 14:31:47,060 WARNING "POST /register/ HTTP/1.1" 403 82 249 
+2026-07-23 14:32:11,607 INFO /Users/suyogkhadka/banquet/app_accounts/views/user_login.py changed, reloading. 265 
+2026-07-23 14:32:11,785 INFO Watching for file changes with StatReloader 681 
+2026-07-23 14:32:17,979 INFO /Users/suyogkhadka/banquet/app_accounts/views/user_login.py changed, reloading. 265 
+2026-07-23 14:32:18,180 INFO Watching for file changes with StatReloader 681 
+2026-07-23 14:32:21,271 INFO /Users/suyogkhadka/banquet/app_accounts/views/user_login.py changed, reloading. 265 
+2026-07-23 14:32:21,423 INFO Watching for file changes with StatReloader 681 
+2026-07-23 14:32:23,697 WARNING Forbidden: /register/ 249 
+2026-07-23 14:32:23,697 WARNING "POST /register/ HTTP/1.1" 403 82 249 
+2026-07-23 14:32:24,342 WARNING Forbidden: /register/ 249 
+2026-07-23 14:32:24,343 WARNING "POST /register/ HTTP/1.1" 403 82 249 
+2026-07-23 14:32:35,871 INFO /Users/suyogkhadka/banquet/app_accounts/views/user_login.py changed, reloading. 265 
+2026-07-23 14:32:36,076 INFO Watching for file changes with StatReloader 681 
+2026-07-23 14:32:38,141 INFO /Users/suyogkhadka/banquet/app_accounts/views/user_login.py changed, reloading. 265 
+2026-07-23 14:32:38,310 INFO Watching for file changes with StatReloader 681 
+2026-07-23 14:32:39,096 WARNING Forbidden: /register/ 249 
+2026-07-23 14:32:39,097 WARNING "POST /register/ HTTP/1.1" 403 82 249 
+2026-07-23 14:32:39,758 WARNING Forbidden: /register/ 249 
+2026-07-23 14:32:39,758 WARNING "POST /register/ HTTP/1.1" 403 82 249 
+2026-07-23 14:32:49,623 INFO /Users/suyogkhadka/banquet/app_accounts/views/user_login.py changed, reloading. 265 
+2026-07-23 14:32:49,822 INFO Watching for file changes with StatReloader 681 
+2026-07-23 14:32:50,924 INFO /Users/suyogkhadka/banquet/app_accounts/views/user_login.py changed, reloading. 265 
+2026-07-23 14:32:51,092 INFO Watching for file changes with StatReloader 681 
+2026-07-23 14:33:41,340 INFO /Users/suyogkhadka/banquet/app_accounts/views/user_login.py changed, reloading. 265 
+2026-07-23 14:33:41,504 INFO Watching for file changes with StatReloader 681 
+2026-07-23 14:33:45,632 INFO /Users/suyogkhadka/banquet/app_accounts/views/user_login.py changed, reloading. 265 
+2026-07-23 14:33:45,825 INFO Watching for file changes with StatReloader 681 
+2026-07-23 14:33:46,872 INFO /Users/suyogkhadka/banquet/app_accounts/views/user_login.py changed, reloading. 265 
+2026-07-23 14:33:47,038 INFO Watching for file changes with StatReloader 681 
+2026-07-23 14:33:51,134 INFO /Users/suyogkhadka/banquet/app_accounts/views/user_login.py changed, reloading. 265 
+2026-07-23 14:33:51,289 INFO Watching for file changes with StatReloader 681 
+2026-07-23 14:33:56,391 INFO /Users/suyogkhadka/banquet/app_accounts/views/user_login.py changed, reloading. 265 
+2026-07-23 14:33:56,562 INFO Watching for file changes with StatReloader 681 
+2026-07-23 14:33:58,631 INFO /Users/suyogkhadka/banquet/app_accounts/views/user_login.py changed, reloading. 265 
+2026-07-23 14:33:58,812 INFO Watching for file changes with StatReloader 681 
+2026-07-23 14:33:59,860 INFO /Users/suyogkhadka/banquet/app_accounts/views/user_login.py changed, reloading. 265 
+2026-07-23 14:34:00,011 INFO Watching for file changes with StatReloader 681 
+2026-07-23 14:34:01,059 INFO /Users/suyogkhadka/banquet/app_accounts/views/user_login.py changed, reloading. 265 
+2026-07-23 14:34:01,233 INFO Watching for file changes with StatReloader 681 
+2026-07-23 14:34:07,445 INFO /Users/suyogkhadka/banquet/app_accounts/views/user_login.py changed, reloading. 265 
+2026-07-23 14:34:07,623 INFO Watching for file changes with StatReloader 681 
+2026-07-23 14:34:11,775 INFO /Users/suyogkhadka/banquet/app_accounts/views/user_login.py changed, reloading. 265 
+2026-07-23 14:34:11,961 INFO Watching for file changes with StatReloader 681 
+2026-07-23 14:34:15,795 WARNING Forbidden: /register/ 249 
+2026-07-23 14:34:15,795 WARNING "POST /register/ HTTP/1.1" 403 82 249 
+2026-07-23 14:34:16,647 WARNING Forbidden: /register/ 249 
+2026-07-23 14:34:16,647 WARNING "POST /register/ HTTP/1.1" 403 82 249 
+2026-07-23 14:34:28,362 INFO /Users/suyogkhadka/banquet/app_accounts/views/user_login.py changed, reloading. 265 
+2026-07-23 14:34:28,577 INFO Watching for file changes with StatReloader 681 
+2026-07-23 14:34:29,395 WARNING Forbidden: /register/ 249 
+2026-07-23 14:34:29,396 WARNING "POST /register/ HTTP/1.1" 403 82 249 
+2026-07-23 14:34:38,854 INFO /Users/suyogkhadka/banquet/app_accounts/views/user_login.py changed, reloading. 265 
+2026-07-23 14:34:39,026 INFO Watching for file changes with StatReloader 681 
+2026-07-23 14:35:38,831 INFO Watching for file changes with StatReloader 681 
+2026-07-23 14:35:45,265 WARNING Bad Request: /register/ 249 
+2026-07-23 14:35:45,265 WARNING "POST /register/ HTTP/1.1" 400 158 249 
+2026-07-23 14:35:54,944 INFO "POST /register/ HTTP/1.1" 201 261 249 
+2026-07-23 14:36:53,084 INFO "POST /verify-email/ HTTP/1.1" 200 109 249 
+2026-07-23 14:37:11,473 WARNING Bad Request: /login/ 249 
+2026-07-23 14:37:11,474 WARNING "POST /login/ HTTP/1.1" 400 102 249 
+2026-07-23 14:37:47,912 WARNING Bad Request: /login/ 249 
+2026-07-23 14:37:47,912 WARNING "POST /login/ HTTP/1.1" 400 102 249 
+2026-07-23 14:37:48,919 WARNING Forbidden: /login/ 249 
+2026-07-23 14:37:48,920 WARNING "POST /login/ HTTP/1.1" 403 170 249 
+2026-07-23 14:38:04,289 WARNING Bad Request: /contact/ 249 
+2026-07-23 14:38:04,290 WARNING "POST /contact/ HTTP/1.1" 400 242 249 
+2026-07-23 14:39:14,186 WARNING Bad Request: /contact/ 249 
+2026-07-23 14:39:14,186 WARNING "POST /contact/ HTTP/1.1" 400 173 249 
+2026-07-23 14:39:25,026 INFO "POST /contact/ HTTP/1.1" 200 257 249 
+2026-07-23 14:41:29,613 INFO /Users/suyogkhadka/banquet/app_accounts/views/user_login.py changed, reloading. 265 
+2026-07-23 14:41:29,799 INFO Watching for file changes with StatReloader 681 
+2026-07-23 14:41:37,740 WARNING Bad Request: /register/ 249 
+2026-07-23 14:41:37,740 WARNING "POST /register/ HTTP/1.1" 400 203 249 
+2026-07-23 14:41:41,300 WARNING Bad Request: /login/ 249 
+2026-07-23 14:41:41,300 WARNING "POST /login/ HTTP/1.1" 400 102 249 
+2026-07-23 14:42:41,660 INFO /Users/suyogkhadka/banquet/app_accounts/views/user_login.py changed, reloading. 265 
+2026-07-23 14:42:41,922 INFO Watching for file changes with StatReloader 681 
+2026-07-23 14:42:48,160 INFO /Users/suyogkhadka/banquet/app_accounts/views/user_login.py changed, reloading. 265 
+2026-07-23 14:42:48,352 INFO Watching for file changes with StatReloader 681 
+2026-07-23 14:42:49,455 INFO /Users/suyogkhadka/banquet/app_accounts/views/user_login.py changed, reloading. 265 
+2026-07-23 14:42:49,641 INFO Watching for file changes with StatReloader 681 

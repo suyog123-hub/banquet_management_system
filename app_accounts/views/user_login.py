@@ -37,9 +37,9 @@ class LoginAPIView(APIView):
             'refresh': str(refresh),
             'access': str(refresh.access_token),
         }
-
     def post(self, request):
         try:
+        
             serializer = LoginSerializer(data=request.data)
             if serializer.is_valid():
                 username = serializer.validated_data['username']
@@ -55,14 +55,13 @@ class LoginAPIView(APIView):
                         message={"detail": "Too many failed attempts. Try again after 15 minutes."}
                     )
 
-                user = authenticate(username=username, password=password)
+                user = authenticate(request, sername=username, password=password)
                 if user is not None:
                     if not user.is_active:
                         return forbidden_response(message={"detail": "Account is locked. Contact admin."})
 
                     login(request, user)
                     tokens = self.get_tokens_for_user(user)
-
                     # Reset attempts on success
                     cache.delete(attempts_key)
 
