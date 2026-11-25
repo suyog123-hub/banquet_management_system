@@ -55,7 +55,7 @@ class LoginAPIView(APIView):
                         message={"detail": "Too many failed attempts. Try again after 15 minutes."}
                     )
 
-                user = authenticate(request, sername=username, password=password)
+                user = authenticate(request, username=username, password=password)
                 if user is not None:
                     if not user.is_active:
                         return forbidden_response(message={"detail": "Account is locked. Contact admin."})
